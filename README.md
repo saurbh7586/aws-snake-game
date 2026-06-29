@@ -160,25 +160,25 @@ ________________________________________
 ________________________________________
 📸 Project Screenshots
 🏗️ AWS Architecture Diagram
-![AWS Architecture](images/snake.png)
+![AWS Architecture](images/architecture.png)
 ________________________________________
 🌐 VPC Configuration
 ![VPC Configuration](images/VPC.png)
 ________________________________________
 🖥️ Application & Database Server
-![Application & Database Server](images/DB Server & App Server.png)
+![Application & Database Server](images/app-db-server.png)
 ________________________________________
 📥 GitHub Clone & Deployment
-![GitHub Clone](images/GitHub Push & Cloning Repo on App Server.png)
+![GitHub Clone](images/githun-clone.png)
 ________________________________________
 🐳 Docker Build & Deployment
-![Docker Build](images/Dockerfile + Docker Build.png)
+![Docker Build](images/docker-build.png)
 ________________________________________
 🗄️ MariaDB Installation
-![MariaDB Installation](images/MariaDB Installation.png)
+![MariaDB Installation](images/mariadb-installation.png)
 ________________________________________
 🎮 Final Website Output
-![Final Website Output](images/Final Output Website.png)
+![Final Website Output](images/final-output.png)
 ________________________________________
 🐍 Snake Game Preview
 ![Snake Game](images/snake-game.png)
